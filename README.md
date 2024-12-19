@@ -17,13 +17,14 @@ This project is a Spring Boot application designed for managing cars. It include
 - MySQL database
 - An IDE (e.g., IntelliJ IDEA or Eclipse)
 
-Configure the Database
-Create a Database:
-Open your MySQL Workbench (or similar tool).
-Create a database named car_management:
+### Configure the Database
+## Create a Database:
+# Open your MySQL Workbench (or similar tool).
+- Create a database named car_management:
 sql
-Copy code
+```sql
 CREATE DATABASE car_management;
+```
 
 ## Setup Instructions
 
